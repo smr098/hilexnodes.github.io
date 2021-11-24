@@ -1,0 +1,1 @@
+Place img-favicon.png in this Folder
